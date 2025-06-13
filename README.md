@@ -1,2 +1,2 @@
-# .github
-"🔵 Its blue because we are penguinmod and not green mod" GUESS WHAT. GREEN MOD.
+# GreenMod
+GreenMod is a slightly modified fork of PenguinMod that intends to add quality of life features.
